@@ -1,6 +1,8 @@
 # SpringBoot+Vue的旅游信息推荐系统
 
-**有问题可以咨询企鹅Q1760272627** 
+**有问题或获取源码可以咨询企鹅Q1760272627** 
+
+**系统运行视频：** https://www.bilibili.com/video/BV1uy41187Gf/?vd_source=5f273f72fd3dc593e25c33cbccdad12e 
 
 ### 功能：
 系统角色上分为管理员以及普通用户进行实现，
@@ -28,4 +30,4 @@ idea，vscode，navicat
 ![预定](img/image10.png)
 ![后台](img/image11.png)
 
-**有问题可以咨询企鹅Q1760272627** 
+**有问题或获取源码可以咨询企鹅Q1760272627** 
